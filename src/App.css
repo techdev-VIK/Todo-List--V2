@@ -1,0 +1,26 @@
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+* {
+  background-color: azure;
+}
+
+input {
+  width: 100%;
+}
+
+.todo-container {
+  text-align: left;
+}
+
+.my-row {
+  margin: 10px 5px;
+}
+
+.my-button {
+  min-width: 100px;
+}
